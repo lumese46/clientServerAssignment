@@ -1,0 +1,7 @@
+These are all the files stored in the server:
+file.txt
+lumese.png
+lumese.png
+lumese.png
+lumese.png
+image.png
